@@ -1,5 +1,111 @@
 [
   {
+    "id": "dior-sauvage-edt",
+    "image": "dior-sauvage-edt-poster-v3061.png",
+    "tags": [
+      "Fresh",
+      "Spicy",
+      "Aromatic",
+      "Woody",
+      "Blue",
+      "Office"
+    ],
+    "recommendation": "A fresh spicy blue fragrance for office, daily wear, evening outings and signature all-round use.",
+    "profile": {
+      "schemaVersion": 2,
+      "character": [
+        "fresh",
+        "spicy",
+        "aromatic",
+        "woody",
+        "amber"
+      ],
+      "occasions": [
+        "daily",
+        "office",
+        "date",
+        "party"
+      ],
+      "climates": [
+        "hot",
+        "monsoon",
+        "ac",
+        "outdoor"
+      ],
+      "strength": 3,
+      "projection": 3,
+      "longevity": 4,
+      "sweetness": 1,
+      "freshness": 4,
+      "warmth": 3,
+      "officeSafety": 4,
+      "heatSafety": 4,
+      "versatility": 5,
+      "evidence": "scentory-supplied",
+      "reviewedAt": "2026-09-07",
+      "topPickEligible": true
+    },
+    "details": {
+      "verification": "scentory-supplied",
+      "notes": {
+        "top": [
+          "Calabrian Bergamot",
+          "Pepper"
+        ],
+        "heart": [
+          "Lavender",
+          "Sichuan Pepper",
+          "Geranium"
+        ],
+        "base": [
+          "Ambroxan",
+          "Cedar",
+          "Labdanum"
+        ]
+      },
+      "performance": "Long-lasting with a fresh spicy trail. Performance varies by wearer, environment and spray count.",
+      "comparison": "A modern blue signature scent",
+      "sourceNote": "Featured note emphasis is based on the supplied Scentory poster. The fuller profile is Scentory-curated for shopping guidance.",
+      "sources": []
+    },
+    "name": "Dior Sauvage EDT",
+    "status": "available",
+    "sizes": {
+      "3ml": {
+        "price": 399,
+        "available": true,
+        "premium": false
+      },
+      "5ml": {
+        "price": 630,
+        "available": true,
+        "premium": false
+      },
+      "6ml": {
+        "price": 750,
+        "available": true,
+        "premium": true
+      },
+      "10ml": {
+        "price": 1199,
+        "available": true,
+        "premium": false
+      },
+      "15ml": {
+        "price": 1740,
+        "available": true,
+        "premium": false
+      }
+    },
+    "prices": {
+      "3 ML": 399,
+      "5 ML": 630,
+      "6 ML": 750,
+      "10 ML": 1199,
+      "15 ML": 1740
+    }
+  },
+  {
     "id": "mykonos-inception-edp",
     "name": "Mykonos Inception (EDP)",
     "status": "available",
@@ -89,7 +195,11 @@
       "performance": "Around 7–9 hours on clothes, according to Scentory’s supplied poster; results vary with skin chemistry, environment and spray count.",
       "comparison": "Louis Vuitton Imagination",
       "sourceNote": "Notes, use guidance, performance and comparison supplied by Scentory in the product poster. Notes are listed without an unconfirmed top/heart/base split. Recommendation scores are approximate catalogue guidance.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1599,
+        "available": false
+      }
     }
   },
   {
@@ -183,7 +293,11 @@
       "performance": "Around 8–9+ hours on clothes, according to Scentory’s supplied poster; results vary with skin chemistry, environment and spray count.",
       "comparison": "Stéphane Humbert Lucas – God of Fire",
       "sourceNote": "Notes, use guidance, performance and comparison supplied by Scentory in the product poster. Notes are listed without an unconfirmed top/heart/base split. Recommendation scores are approximate catalogue guidance.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1599,
+        "available": false
+      }
     }
   },
   {
@@ -257,7 +371,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1099,
+        "available": false
+      }
     }
   },
   {
@@ -333,7 +451,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1270,
+        "available": false
+      }
     }
   },
   {
@@ -404,7 +526,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1250,
+        "available": false
+      }
     }
   },
   {
@@ -477,7 +603,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1430,
+        "available": false
+      }
     }
   },
   {
@@ -552,7 +682,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1450,
+        "available": false
+      }
     }
   },
   {
@@ -620,7 +754,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1430,
+        "available": false
+      }
     }
   },
   {
@@ -690,7 +828,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1510,
+        "available": false
+      }
     }
   },
   {
@@ -768,7 +910,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1130,
+        "available": false
+      }
     }
   },
   {
@@ -837,7 +983,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1299,
+        "available": true
+      }
     }
   },
   {
@@ -907,7 +1057,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1450,
+        "available": false
+      }
     }
   },
   {
@@ -979,7 +1133,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1240,
+        "available": false
+      }
     }
   },
   {
@@ -1054,7 +1212,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1199,
+        "available": false
+      }
     }
   },
   {
@@ -1130,7 +1292,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1320,
+        "available": false
+      }
     }
   },
   {
@@ -1206,7 +1372,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 2030,
+        "available": false
+      }
     }
   },
   {
@@ -1284,7 +1454,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1499,
+        "available": false
+      }
     }
   },
   {
@@ -1360,7 +1534,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1899,
+        "available": false
+      }
     }
   },
   {
@@ -1438,7 +1616,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1899,
+        "available": false
+      }
     }
   },
   {
@@ -1509,7 +1691,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1099,
+        "available": false
+      }
     }
   },
   {
@@ -1581,7 +1767,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1510,
+        "available": false
+      }
     }
   },
   {
@@ -1650,7 +1840,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1510,
+        "available": false
+      }
     }
   },
   {
@@ -1720,7 +1914,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1620,
+        "available": false
+      }
     }
   },
   {
@@ -1793,7 +1991,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1699,
+        "available": true
+      }
     }
   },
   {
@@ -1867,7 +2069,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 2410,
+        "available": false
+      }
     }
   },
   {
@@ -1971,7 +2177,11 @@
           "url": "https://afnan.com/products/supremacy-not-only-intense",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1750,
+        "available": false
+      }
     }
   },
   {
@@ -2047,7 +2257,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1610,
+        "available": false
+      }
     }
   },
   {
@@ -2155,7 +2369,11 @@
           "url": "https://afnan.com/products/9pm-night-out",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 2299,
+        "available": false
+      }
     }
   },
   {
@@ -2256,7 +2474,11 @@
           "url": "https://afnan.com/products/9-pm",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1430,
+        "available": false
+      }
     }
   },
   {
@@ -2360,7 +2582,11 @@
           "url": "https://afnan.com/products/9-pm-rebel",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1730,
+        "available": false
+      }
     }
   },
   {
@@ -2431,7 +2657,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1350,
+        "available": false
+      }
     }
   },
   {
@@ -2447,8 +2677,13 @@
     "recommendation": "A refined warm evening profile suited to dates, dinners, formal occasions, and cooler or air-conditioned settings.",
     "status": "available",
     "sizes": {
+      "3ml": {
+        "price": 289,
+        "available": true,
+        "premium": false
+      },
       "5ml": {
-        "price": 440,
+        "price": 430,
         "available": true,
         "premium": false
       },
@@ -2461,18 +2696,13 @@
         "price": 830,
         "available": true,
         "premium": false
-      },
-      "15ml": {
-        "price": 1180,
-        "available": false,
-        "premium": false
       }
     },
     "prices": {
-      "5 ML": 440,
+      "3 ML": 289,
+      "5 ML": 430,
       "6 ML": 530,
-      "10 ML": 830,
-      "15 ML": 1180
+      "10 ML": 830
     },
     "profile": {
       "schemaVersion": 1,
@@ -2511,9 +2741,14 @@
   },
   {
     "id": "stronger-with-you-intensely-edp",
-    "name": "Stronger With You Intensely EDP",
+    "name": "Stronger With You Intensely",
     "status": "available",
     "sizes": {
+      "3ml": {
+        "price": 420,
+        "available": true,
+        "premium": false
+      },
       "5ml": {
         "price": 670,
         "available": true,
@@ -2528,54 +2763,172 @@
         "price": 1280,
         "available": true,
         "premium": false
-      },
-      "15ml": {
-        "price": 1850,
-        "available": false,
-        "premium": false
       }
     },
     "image": "stronger-with-you-intensely-edp.webp",
     "tags": [
       "Sweet",
+      "Warm Spicy",
+      "Amber",
       "Date Night",
-      "Winter"
+      "Party"
     ],
-    "recommendation": "Best for night time, dates, winter/fall, romantic evenings, parties, and special occasions.",
+    "recommendation": "A rich sweet warm-spicy scent for date nights, parties and cooler-weather evenings.",
     "prices": {
+      "3 ML": 420,
       "5 ML": 670,
       "6 ML": 799,
-      "10 ML": 1280,
-      "15 ML": 1850
+      "10 ML": 1280
     },
     "profile": {
-      "schemaVersion": 1,
+      "schemaVersion": 2,
       "character": [
-        "sweet"
+        "sweet",
+        "spicy",
+        "amber",
+        "woody"
       ],
       "occasions": [
         "date",
+        "party",
         "formal"
       ],
       "climates": [
-        "winter"
+        "winter",
+        "ac"
       ],
       "strength": 4,
       "projection": 4,
-      "longevity": 5,
-      "sweetness": 4,
-      "freshness": 2,
-      "warmth": 4,
+      "longevity": 4,
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 5,
       "officeSafety": 2,
-      "heatSafety": 2,
+      "heatSafety": 1,
       "versatility": 2,
-      "evidence": "catalogue-derived",
-      "reviewedAt": "2026-08-26"
+      "evidence": "scentory-supplied",
+      "reviewedAt": "2026-09-07",
+      "topPickEligible": true
     },
     "details": {
-      "verification": "needs-source-review",
-      "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
+      "verification": "scentory-supplied",
+      "notes": {
+        "top": [
+          "Pink Pepper",
+          "Juniper",
+          "Violet"
+        ],
+        "heart": [
+          "Toffee",
+          "Cinnamon",
+          "Lavender",
+          "Sage"
+        ],
+        "base": [
+          "Vanilla",
+          "Amber",
+          "Tonka Bean",
+          "Suede"
+        ]
+      },
+      "performance": "Known for strong sweet evening performance. Best with controlled spraying in enclosed spaces.",
+      "sourceNote": "Profile is Scentory-curated to support wear guidance and comparison shopping.",
       "sources": []
+    }
+  },
+  {
+    "id": "stronger-with-you-absolutely-edp",
+    "image": "stronger-with-you-intensely-edp.webp",
+    "tags": [
+      "Sweet",
+      "Amber",
+      "Woody",
+      "Date Night",
+      "Formal"
+    ],
+    "recommendation": "A richer boozy sweet profile for date nights, formal evenings and cooler-weather wear.",
+    "profile": {
+      "schemaVersion": 2,
+      "character": [
+        "sweet",
+        "amber",
+        "woody",
+        "spicy"
+      ],
+      "occasions": [
+        "date",
+        "party",
+        "formal"
+      ],
+      "climates": [
+        "winter",
+        "ac"
+      ],
+      "strength": 4,
+      "projection": 4,
+      "longevity": 4,
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 5,
+      "officeSafety": 2,
+      "heatSafety": 1,
+      "versatility": 2,
+      "evidence": "scentory-supplied",
+      "reviewedAt": "2026-09-07",
+      "topPickEligible": false
+    },
+    "details": {
+      "verification": "scentory-supplied",
+      "notes": {
+        "top": [
+          "Rum",
+          "Bergamot",
+          "Elemi"
+        ],
+        "heart": [
+          "Lavender",
+          "Davana"
+        ],
+        "base": [
+          "Chestnut",
+          "Vanilla",
+          "Cedar",
+          "Patchouli"
+        ]
+      },
+      "performance": "A strong, cozy evening scent with sweet boozy depth. Performance varies by wearer, temperature and spray count.",
+      "sourceNote": "Profile is Scentory-curated for shopping guidance.",
+      "sources": []
+    },
+    "name": "Stronger With You Absolutely",
+    "status": "out",
+    "sizes": {
+      "3ml": {
+        "price": 420,
+        "available": false,
+        "premium": false
+      },
+      "5ml": {
+        "price": 670,
+        "available": false,
+        "premium": false
+      },
+      "6ml": {
+        "price": 799,
+        "available": false,
+        "premium": true
+      },
+      "10ml": {
+        "price": 1280,
+        "available": false,
+        "premium": false
+      }
+    },
+    "prices": {
+      "3 ML": 420,
+      "5 ML": 670,
+      "6 ML": 799,
+      "10 ML": 1280
     }
   },
   {
@@ -2721,6 +3074,108 @@
     }
   },
   {
+    "id": "bleu-de-chanel-edp",
+    "image": "bleu-de-chanel-edp-poster-v3061.png",
+    "tags": [
+      "Fresh",
+      "Woody",
+      "Aromatic",
+      "Elegant",
+      "Office"
+    ],
+    "recommendation": "A refined fresh woody blue scent for office, dinners, formal wear and signature daily use.",
+    "profile": {
+      "schemaVersion": 2,
+      "character": [
+        "fresh",
+        "citrus",
+        "aromatic",
+        "woody",
+        "amber"
+      ],
+      "occasions": [
+        "daily",
+        "office",
+        "date",
+        "formal"
+      ],
+      "climates": [
+        "hot",
+        "monsoon",
+        "ac",
+        "outdoor"
+      ],
+      "strength": 3,
+      "projection": 3,
+      "longevity": 4,
+      "sweetness": 1,
+      "freshness": 4,
+      "warmth": 3,
+      "officeSafety": 5,
+      "heatSafety": 4,
+      "versatility": 5,
+      "evidence": "scentory-supplied",
+      "reviewedAt": "2026-09-07",
+      "topPickEligible": true
+    },
+    "details": {
+      "verification": "scentory-supplied",
+      "notes": {
+        "top": [
+          "Grapefruit",
+          "Lemon",
+          "Mint",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Ginger",
+          "Nutmeg",
+          "Jasmine"
+        ],
+        "base": [
+          "Cedar",
+          "Sandalwood",
+          "Incense",
+          "Patchouli"
+        ]
+      },
+      "performance": "Usually long-lasting with a smooth refined trail. Performance varies by wearer, environment and spray count.",
+      "comparison": "A premium blue signature scent",
+      "sourceNote": "Featured note emphasis is based on the supplied Scentory poster. The fuller profile is Scentory-curated for shopping guidance.",
+      "sources": []
+    },
+    "name": "Bleu De Chanel EDP",
+    "status": "upcoming",
+    "sizes": {
+      "3ml": {
+        "price": 730,
+        "available": false,
+        "premium": false
+      },
+      "5ml": {
+        "price": 1190,
+        "available": false,
+        "premium": false
+      },
+      "6ml": {
+        "price": 1430,
+        "available": false,
+        "premium": true
+      },
+      "10ml": {
+        "price": 2299,
+        "available": false,
+        "premium": false
+      }
+    },
+    "prices": {
+      "3 ML": 730,
+      "5 ML": 1190,
+      "6 ML": 1430,
+      "10 ML": 2299
+    }
+  },
+  {
     "id": "nautica-voyage-edt",
     "name": "Nautica Voyage",
     "status": "available",
@@ -2793,7 +3248,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 899,
+        "available": false
+      }
     }
   },
   {
@@ -2865,7 +3324,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 2330,
+        "available": false
+      }
     }
   },
   {
@@ -2937,7 +3400,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 2099,
+        "available": false
+      }
     }
   },
   {
@@ -3009,7 +3476,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 2240,
+        "available": false
+      }
     }
   },
   {
@@ -3084,7 +3555,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1020,
+        "available": false
+      }
     }
   },
   {
@@ -3159,7 +3634,110 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
+      "sources": [],
+      "source30ml": {
+        "price": 1450,
+        "available": false
+      }
+    }
+  },
+  {
+    "id": "bois-imperial-edp",
+    "image": "bois-imperial-edp-poster-v3061.png",
+    "tags": [
+      "Fresh",
+      "Green",
+      "Spicy",
+      "Woody",
+      "Office"
+    ],
+    "recommendation": "A bright spicy green-woody scent for office, smart casual wear, upscale daytime use and signature wear.",
+    "profile": {
+      "schemaVersion": 2,
+      "character": [
+        "fresh",
+        "green",
+        "spicy",
+        "woody",
+        "musky"
+      ],
+      "occasions": [
+        "daily",
+        "office",
+        "date",
+        "formal"
+      ],
+      "climates": [
+        "hot",
+        "monsoon",
+        "ac",
+        "outdoor"
+      ],
+      "strength": 3,
+      "projection": 3,
+      "longevity": 4,
+      "sweetness": 1,
+      "freshness": 4,
+      "warmth": 2,
+      "officeSafety": 5,
+      "heatSafety": 4,
+      "versatility": 4,
+      "evidence": "scentory-supplied",
+      "reviewedAt": "2026-09-07",
+      "topPickEligible": true
+    },
+    "details": {
+      "verification": "scentory-supplied",
+      "notes": {
+        "top": [
+          "Thai Basil",
+          "Grapefruit",
+          "Timut Pepper"
+        ],
+        "heart": [
+          "Vetiver",
+          "Petalia"
+        ],
+        "base": [
+          "Akigalawood",
+          "Ambrox",
+          "Patchouli"
+        ]
+      },
+      "performance": "Often praised for strong wear from a bright woody profile. Performance varies by wearer, weather and spray count.",
+      "comparison": "A modern spicy woody niche profile",
+      "sourceNote": "Featured note emphasis is based on the supplied Scentory poster. The fuller profile is Scentory-curated for shopping guidance.",
       "sources": []
+    },
+    "name": "Bois Impérial EDP",
+    "status": "upcoming",
+    "sizes": {
+      "3ml": {
+        "price": 570,
+        "available": false,
+        "premium": false
+      },
+      "5ml": {
+        "price": 899,
+        "available": false,
+        "premium": false
+      },
+      "6ml": {
+        "price": 1099,
+        "available": false,
+        "premium": true
+      },
+      "10ml": {
+        "price": 1770,
+        "available": false,
+        "premium": false
+      }
+    },
+    "prices": {
+      "3 ML": 570,
+      "5 ML": 899,
+      "6 ML": 1099,
+      "10 ML": 1770
     }
   },
   {
@@ -3234,7 +3812,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1599,
+        "available": false
+      }
     }
   },
   {
@@ -3311,7 +3893,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1599,
+        "available": false
+      }
     }
   },
   {
@@ -3416,7 +4002,11 @@
           "url": "https://admin.ahmedalmaghribi.com/shop/kaaf",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1360,
+        "available": false
+      }
     }
   },
   {
@@ -3526,7 +4116,11 @@
           "url": "https://ksa.ahmedalmaghribi.com/en/shop/online-exclusive/extrait-de-parfum/blue-by-ahmed",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1020,
+        "available": false
+      }
     }
   },
   {
@@ -3598,7 +4192,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1020,
+        "available": false
+      }
     }
   },
   {
@@ -3670,7 +4268,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 900,
+        "available": false
+      }
     }
   },
   {
@@ -3744,7 +4346,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 799,
+        "available": false
+      }
     }
   },
   {
@@ -3818,7 +4424,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 799,
+        "available": false
+      }
     }
   },
   {
@@ -3890,7 +4500,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 799,
+        "available": false
+      }
     }
   },
   {
@@ -3964,7 +4578,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 910,
+        "available": true
+      }
     }
   },
   {
@@ -4068,7 +4686,11 @@
           "url": "https://arabiyatprestige.com/products/arabiyat-prestige-marwa-edp-100ml-unisex",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1380,
+        "available": false
+      }
     }
   },
   {
@@ -4141,7 +4763,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1299,
+        "available": false
+      }
     }
   },
   {
@@ -4215,7 +4841,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1050,
+        "available": false
+      }
     }
   },
   {
@@ -4284,7 +4914,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1050,
+        "available": false
+      }
     }
   },
   {
@@ -4356,7 +4990,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1099,
+        "available": false
+      }
     }
   },
   {
@@ -4430,7 +5068,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -4507,7 +5149,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -4580,7 +5226,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -4654,7 +5304,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -4728,7 +5382,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -4800,7 +5458,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -4874,7 +5536,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -4945,7 +5611,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5017,7 +5687,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5086,7 +5760,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5161,7 +5839,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1020,
+        "available": false
+      }
     }
   },
   {
@@ -5235,7 +5917,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5307,7 +5993,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5378,7 +6068,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5450,7 +6144,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5522,7 +6220,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 990,
+        "available": false
+      }
     }
   },
   {
@@ -5621,7 +6323,11 @@
       "performance": "Around 7–9 hours on clothes, based on Scentory guidance; performance varies by wearer and conditions.",
       "comparison": "Dior Sauvage EDT",
       "sourceNote": "Scentory supplied the poster profile and comparison.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1250,
+        "available": false
+      }
     }
   },
   {
@@ -5721,7 +6427,11 @@
           "url": "https://lattafa.com/product/badee-al-oud-oud-for-glory/",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1150,
+        "available": false
+      }
     }
   },
   {
@@ -5796,7 +6506,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1150,
+        "available": false
+      }
     }
   },
   {
@@ -5871,7 +6585,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1499,
+        "available": false
+      }
     }
   },
   {
@@ -5944,7 +6662,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1520,
+        "available": false
+      }
     }
   },
   {
@@ -6020,7 +6742,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 2260,
+        "available": false
+      }
     }
   },
   {
@@ -6091,7 +6817,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1299,
+        "available": false
+      }
     }
   },
   {
@@ -6163,7 +6893,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 3910,
+        "available": true
+      }
     }
   },
   {
@@ -6234,7 +6968,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1350,
+        "available": false
+      }
     }
   },
   {
@@ -6309,7 +7047,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1360,
+        "available": false
+      }
     }
   },
   {
@@ -6384,7 +7126,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1599,
+        "available": false
+      }
     }
   },
   {
@@ -6454,7 +7200,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1699,
+        "available": false
+      }
     }
   },
   {
@@ -6527,7 +7277,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1499,
+        "available": false
+      }
     }
   },
   {
@@ -6602,7 +7356,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1399,
+        "available": false
+      }
     }
   },
   {
@@ -6704,7 +7462,11 @@
           "url": "https://frenchavenue.com/products/liquid-brun",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1499,
+        "available": false
+      }
     }
   },
   {
@@ -6775,7 +7537,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1499,
+        "available": false
+      }
     }
   },
   {
@@ -6848,7 +7614,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 910,
+        "available": false
+      }
     }
   },
   {
@@ -6923,7 +7693,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1290,
+        "available": false
+      }
     }
   },
   {
@@ -6997,7 +7771,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 800,
+        "available": false
+      }
     }
   },
   {
@@ -7066,7 +7844,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1810,
+        "available": false
+      }
     }
   },
   {
@@ -7140,7 +7922,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1250,
+        "available": false
+      }
     }
   },
   {
@@ -7239,7 +8025,11 @@
           "url": "https://lattafa.com/product/yara/",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 999,
+        "available": false
+      }
     }
   },
   {
@@ -7316,7 +8106,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 910,
+        "available": false
+      }
     }
   },
   {
@@ -7388,7 +8182,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 910,
+        "available": false
+      }
     }
   },
   {
@@ -7461,7 +8259,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1290,
+        "available": false
+      }
     }
   },
   {
@@ -7531,7 +8333,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1550,
+        "available": false
+      }
     }
   },
   {
@@ -7634,7 +8440,11 @@
           "url": "https://lattafa.com/product/khamrah-qahwa/",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1340,
+        "available": false
+      }
     }
   },
   {
@@ -7706,7 +8516,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1099,
+        "available": false
+      }
     }
   },
   {
@@ -7809,7 +8623,11 @@
           "url": "https://lattafa.com/product/asad/",
           "type": "brand"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 1099,
+        "available": false
+      }
     }
   },
   {
@@ -7883,7 +8701,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1099,
+        "available": false
+      }
     }
   },
   {
@@ -7953,7 +8775,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 840,
+        "available": false
+      }
     }
   },
   {
@@ -8027,7 +8853,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 840,
+        "available": false
+      }
     }
   },
   {
@@ -8103,7 +8933,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1280,
+        "available": false
+      }
     }
   },
   {
@@ -8195,7 +9029,11 @@
       "performance": "Around 8–9+ hours on clothes, according to Scentory’s supplied poster; results vary with skin chemistry, environment and spray count.",
       "comparison": "Creed Virgin Island Water + God of Fire",
       "sourceNote": "Notes, use guidance, performance and comparison supplied by Scentory in the product poster. Notes are listed without an unconfirmed top/heart/base split. Recommendation scores are approximate catalogue guidance.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1299,
+        "available": true
+      }
     }
   },
   {
@@ -8267,7 +9105,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1170,
+        "available": false
+      }
     }
   },
   {
@@ -8341,7 +9183,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1170,
+        "available": false
+      }
     }
   },
   {
@@ -8413,7 +9259,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 1299,
+        "available": true
+      }
     }
   },
   {
@@ -8487,7 +9337,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 799,
+        "available": false
+      }
     }
   },
   {
@@ -8558,7 +9412,11 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": []
+      "sources": [],
+      "source30ml": {
+        "price": 799,
+        "available": false
+      }
     }
   },
   {
@@ -8672,7 +9530,11 @@
           "url": "https://moksperfumes.co.za/product/arabiyat-oud-al-layl-midnight-edition-intense-edp-100ml/",
           "type": "specialist-retailer"
         }
-      ]
+      ],
+      "source30ml": {
+        "price": 640,
+        "available": false
+      }
     }
   }
 ]
