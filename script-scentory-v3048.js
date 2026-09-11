@@ -5,7 +5,7 @@ const WHATSAPP_NUMBER = '8801410939978';
 const FACEBOOK_PAGE_URL = 'https://m.me/Scentorybd';
 // Paste your deployed Google Apps Script Web App URL below. Keep it blank until setup.
 const GOOGLE_SCRIPT_URL = ''; // Example: https://script.google.com/macros/s/XXXXX/exec
-const DATA_VERSION = '3060';
+const DATA_VERSION = '3062';
 const BEST_SELLING_IDS = [
   'versace-eros-edt',
   'afnan-supremacy-collector-s-edition-edp',
@@ -201,7 +201,12 @@ const shortOrderName = name => {
     "Khadlaj Island Dream EDP": "Island Dream",
     "Titan by Khadlaj (EDP)": "Titan",
     "Qaed Al Fursan EDP": "Qaed Al Fursan",
-    "Daring Blue EDP": "Daring Blue"
+    "Daring Blue EDP": "Daring Blue",
+    "Dior Sauvage EDT": "Dior Sauvage",
+    "Stronger With You Intensely": "SWY Intensely",
+    "Stronger With You Absolutely": "SWY Absolutely",
+    "Bleu De Chanel EDP": "Bleu De Chanel",
+    "Bois Impérial EDP": "Bois Impérial"
   };
   if (custom[name]) return custom[name];
   return String(name || '')
@@ -311,14 +316,15 @@ function renderIntelligenceDetails(p) {
   }
 
   return `
-    <section class="verified-perfume-details" aria-label="Source-checked perfume profile">
-      <span class="profile-review-badge checked">${sourceChecked ? 'Source-checked profile' : 'Scentory supplied profile'}</span>
+    <section class="verified-perfume-details" aria-label="Perfume profile shared across all decant sizes">
+      <span class="profile-review-badge checked">Scentory supplied profile</span>
       ${character.length ? `<div class="profile-fact"><b>Scent character</b><span>${character.map(escapeHtml).join(' · ')}</span></div>` : ''}
       ${noteRows.map(([label, values]) => `<div class="profile-fact"><b>${escapeHtml(label)}</b><span>${values.map(escapeHtml).join(' · ')}</span></div>`).join('')}
-      <div class="profile-fact"><b>Expected longevity</b><span>${escapeHtml(longevity)}. ${escapeHtml(details.performance || 'Skin, weather, batch and atomizer can change real-world performance.')}</span></div>
+      <div class="profile-fact"><b>Expected longevity</b><span>${escapeHtml(details.performance || 'Skin, weather, batch and atomizer can change real-world performance.')}</span></div>
       ${bestPlaces.length ? `<div class="profile-fact"><b>Best places to wear</b><span>${bestPlaces.map(escapeHtml).join(' · ')}</span></div>` : ''}
       ${bestWeather.length ? `<div class="profile-fact"><b>Best conditions</b><span>${bestWeather.map(escapeHtml).join(' · ')}</span></div>` : ''}
       ${comparison ? `<div class="profile-fact"><b>Compared with</b><span>${escapeHtml(comparison)}</span></div>` : ''}
+      ${(details.sources || []).filter(source => /^https:\/\//.test(source.url || '')).map(source => `<p class="profile-source-note"><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.title || 'Product source')}</a></p>`).join('')}
       ${details.sourceNote ? `<p class="profile-source-note">${escapeHtml(details.sourceNote)}</p>` : ''}
       <p class="profile-source-note">Performance is guidance, not a guarantee. Skin chemistry, heat, humidity and spray count can change the result.</p>
     </section>
