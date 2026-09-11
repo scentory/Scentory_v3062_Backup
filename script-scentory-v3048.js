@@ -5,7 +5,7 @@ const WHATSAPP_NUMBER = '8801410939978';
 const FACEBOOK_PAGE_URL = 'https://m.me/Scentorybd';
 // Paste your deployed Google Apps Script Web App URL below. Keep it blank until setup.
 const GOOGLE_SCRIPT_URL = ''; // Example: https://script.google.com/macros/s/XXXXX/exec
-const DATA_VERSION = '3062';
+const DATA_VERSION = '3063';
 const BEST_SELLING_IDS = [
   'versace-eros-edt',
   'afnan-supremacy-collector-s-edition-edp',
@@ -365,9 +365,9 @@ function renderProductCardV3002(p) {
   const statusText = upcoming ? 'Upcoming' : (hasAvailable ? 'Available' : 'Out of stock');
   return `
     <article id="perfume-${escapeHtml(p.id)}" data-perfume-id="${escapeHtml(p.id)}" class="product ${hasAvailable ? '' : 'sold-out'} ${upcoming ? 'upcoming-card' : ''}">
-      <button type="button" class="product-image-wrap" data-full-image="${escapeHtml(imagePath(p))}" data-full-title="${escapeHtml(p.name)}" onclick="openImageModal(this.dataset.fullImage, this.dataset.fullTitle)" aria-label="Open ${escapeHtml(p.name)} photo">
+      <a class="product-image-wrap" href="perfume/${encodeURIComponent(p.id)}.html" aria-label="View ${escapeHtml(p.name)}">
         <img class="product-image" src="${escapeHtml(imagePath(p))}" alt="${escapeHtml(p.name)}" loading="lazy" decoding="async" fetchpriority="low" onerror="hideBrokenImage(this)">
-      </button>
+      </a>
       <div class="product-main">
         <div class="product-head">
           <h3>${escapeHtml(p.name)}</h3>
@@ -377,14 +377,15 @@ function renderProductCardV3002(p) {
           </div>
         </div>
         <p class="product-reco">${escapeHtml(profile.recommendation)}</p>
-        <button type="button" class="details-link" onclick="openProductDetails('${escapeHtml(p.id)}')">View Details</button>
+        <a class="details-link" href="perfume/${encodeURIComponent(p.id)}.html">View perfume →</a>
       </div>
-      <div class="price-buttons four-row">${renderPriceTiles(p)}</div>
+      <a class="shop-price" href="perfume/${encodeURIComponent(p.id)}.html">From ${taka(Math.min(...Object.values(p.sizes).filter(x => x.price !== null).map(x => x.price)))} <span>Choose size →</span></a>
     </article>
   `;
 }
 
 function openProductDetails(id) {
+  if (getPerfumeById(id)) { window.location.href = `perfume/${encodeURIComponent(id)}.html`; return; }
   const p = getPerfumeById(id);
   if (!p || !productModal || !productModalContent) return;
   const hasAvailable = productHasAvailableSize(p);
@@ -680,9 +681,9 @@ function renderProductCard(p) {
 
   return `
     <article id="perfume-${p.id}" data-perfume-id="${p.id}" class="product ${hasAvailable ? '' : 'sold-out'} ${upcoming ? 'upcoming-card' : ''}">
-      <button type="button" class="product-image-wrap" data-full-image="${escapeHtml(imagePath(p))}" data-full-title="${escapeHtml(p.name)}" onclick="openImageModal(this.dataset.fullImage, this.dataset.fullTitle)" aria-label="Open ${escapeHtml(p.name)} photo">
+      <a class="product-image-wrap" href="perfume/${encodeURIComponent(p.id)}.html" aria-label="View ${escapeHtml(p.name)}">
         <img class="product-image" src="${escapeHtml(imagePath(p))}" alt="${escapeHtml(p.name)}" loading="lazy" decoding="async" fetchpriority="low" onerror="hideBrokenImage(this)">
-      </button>
+      </a>
       <div class="product-main">
         <div class="product-head">
           <h3>${p.name}</h3>
@@ -732,7 +733,7 @@ function renderHotArrivals() {
   hotArrivalsGrid.querySelectorAll('.hot-arrival-card[data-target-id]').forEach(btn => {
     btn.addEventListener('click', event => {
       event.preventDefault();
-      scrollToPerfume(btn.dataset.targetId);
+      window.location.href = `perfume/${encodeURIComponent(btn.dataset.targetId)}.html`;
     });
   });
 }
@@ -763,7 +764,7 @@ function renderBestSelling() {
   bestSellingGrid.querySelectorAll('.best-seller-card[data-target-id]').forEach(btn => {
     btn.addEventListener('click', event => {
       event.preventDefault();
-      scrollToPerfume(btn.dataset.targetId);
+      window.location.href = `perfume/${encodeURIComponent(btn.dataset.targetId)}.html`;
     });
   });
 }
@@ -1356,3 +1357,8 @@ if ('ResizeObserver' in window) {
 }
 requestAnimationFrame(syncTopbarHeight);
 loadPerfumes();
+
+// Refresh the shared cart when returning from a product page through browser history.
+window.addEventListener('pageshow', event => {
+  if (event.persisted) { restoreCart(); renderCart(); updatePriceTileStates(); }
+});

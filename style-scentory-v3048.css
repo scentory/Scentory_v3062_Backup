@@ -3432,3 +3432,6 @@ body {
   aspect-ratio: auto;
   height: auto;
 }
+
+/* Dedicated product browsing */
+a.product-image-wrap{display:block;text-decoration:none}a.product-image-wrap:focus-visible,.details-link:focus-visible{outline:3px solid #d8c39c;outline-offset:4px}.shop-price{display:flex;justify-content:space-between;gap:12px;padding:18px 20px;border-top:1px solid #333;color:#f2e6d3;text-decoration:none;font-weight:700}.shop-price span{font-size:14px;color:#b8b8b8}.details-link{text-decoration:none}
