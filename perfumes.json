@@ -40,7 +40,7 @@
       "15 ML": 840
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fresh",
         "citrus",
@@ -89,40 +89,7 @@
       "performance": "Around 7–9 hours on clothes, according to Scentory’s supplied poster; results vary with skin chemistry, environment and spray count.",
       "comparison": "Louis Vuitton Imagination",
       "sourceNote": "Notes, use guidance, performance and comparison supplied by Scentory in the product poster. Notes are listed without an unconfirmed top/heart/base split. Recommendation scores are approximate catalogue guidance.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [
-          "Lemon",
-          "Bergamot",
-          "Ginger"
-        ],
-        "heartNotes": [
-          "Orange",
-          "Black tea",
-          "Neroli"
-        ],
-        "baseNotes": [
-          "Cinnamon",
-          "Musk",
-          "Cedarwood",
-          "Guaiac wood"
-        ],
-        "listedNotes": [
-          "Lemon",
-          "Bergamot",
-          "Ginger",
-          "Orange",
-          "Black tea",
-          "Neroli",
-          "Cinnamon",
-          "Musk",
-          "Cedarwood",
-          "Guaiac wood"
-        ],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -166,7 +133,7 @@
       "15 ML": 840
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fruity",
         "citrus",
@@ -216,44 +183,7 @@
       "performance": "Around 8–9+ hours on clothes, according to Scentory’s supplied poster; results vary with skin chemistry, environment and spray count.",
       "comparison": "Stéphane Humbert Lucas – God of Fire",
       "sourceNote": "Notes, use guidance, performance and comparison supplied by Scentory in the product poster. Notes are listed without an unconfirmed top/heart/base split. Recommendation scores are approximate catalogue guidance.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [
-          "Mango",
-          "Italian lemon",
-          "Rhubarb"
-        ],
-        "heartNotes": [
-          "Ginger",
-          "Pink pepper",
-          "Violet"
-        ],
-        "baseNotes": [
-          "Jasmine",
-          "Praline",
-          "Cedar",
-          "Amber",
-          "Tonka bean",
-          "Moss"
-        ],
-        "listedNotes": [
-          "Mango",
-          "Italian lemon",
-          "Rhubarb",
-          "Ginger",
-          "Pink pepper",
-          "Violet",
-          "Jasmine",
-          "Praline",
-          "Cedar",
-          "Amber",
-          "Tonka bean",
-          "Moss"
-        ],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -296,7 +226,7 @@
       "15 ML": 580
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -327,16 +257,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -379,7 +300,7 @@
       "15 ML": 660
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -412,16 +333,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -464,7 +376,7 @@
       "15 ML": 620
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -492,16 +404,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -544,7 +447,7 @@
       "15 ML": 750
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh"
       ],
@@ -574,16 +477,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -628,7 +522,7 @@
       "15 ML": 750
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -658,16 +552,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -709,7 +594,7 @@
       "15 ML": 750
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "aromatic"
       ],
@@ -735,16 +620,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -787,7 +663,7 @@
       "15 ML": 790
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "elegant"
       ],
@@ -814,16 +690,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -866,7 +733,7 @@
       "15 ML": 600
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "citrus",
         "spicy",
@@ -901,16 +768,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -953,7 +811,7 @@
       "15 ML": 650
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "spicy"
       ],
@@ -979,16 +837,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1031,7 +880,7 @@
       "15 ML": 750
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh"
       ],
@@ -1058,16 +907,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1110,7 +950,7 @@
       "15 ML": 650
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "woody",
         "oud",
@@ -1139,16 +979,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1191,7 +1022,7 @@
       "15 ML": 630
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -1223,16 +1054,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1275,7 +1097,7 @@
       "15 ML": 690
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "green",
         "citrus",
@@ -1308,16 +1130,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1362,7 +1175,7 @@
       "15 ML": 1050
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "green",
@@ -1393,16 +1206,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1446,7 +1250,7 @@
       "15 ML": 780
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "woody",
         "green",
@@ -1480,16 +1284,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1532,7 +1327,7 @@
       "15 ML": 640
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "green",
@@ -1565,16 +1360,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1618,7 +1404,7 @@
       "15 ML": 640
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "citrus",
@@ -1652,16 +1438,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1704,7 +1481,7 @@
       "15 ML": 580
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -1732,16 +1509,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1784,7 +1552,7 @@
       "15 ML": 790
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -1813,16 +1581,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1865,7 +1624,7 @@
       "15 ML": 790
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh"
       ],
@@ -1891,16 +1650,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -1943,7 +1693,7 @@
       "15 ML": 840
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "aromatic"
       ],
@@ -1970,16 +1720,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -2022,7 +1763,7 @@
       "15 ML": 880
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -2052,16 +1793,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -2104,7 +1836,7 @@
       "15 ML": 1240
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -2135,16 +1867,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -2188,7 +1911,7 @@
       "15 ML": 900
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fresh",
         "fruity",
@@ -2248,16 +1971,7 @@
           "url": "https://afnan.com/products/supremacy-not-only-intense",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -2300,7 +2014,7 @@
       "15 ML": 840
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "citrus",
         "fresh",
@@ -2333,16 +2047,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -2386,7 +2091,7 @@
       "15 ML": 1170
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fruity",
         "sweet",
@@ -2450,16 +2155,7 @@
           "url": "https://afnan.com/products/9pm-night-out",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -2503,7 +2199,7 @@
       "15 ML": 750
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "sweet",
         "fruity",
@@ -2560,16 +2256,7 @@
           "url": "https://afnan.com/products/9-pm",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -2613,7 +2300,7 @@
       "15 ML": 900
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fruity",
         "fresh",
@@ -2673,16 +2360,7 @@
           "url": "https://afnan.com/products/9-pm-rebel",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -2725,7 +2403,7 @@
       "15 ML": 690
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -2753,16 +2431,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -2806,7 +2475,7 @@
       "15 ML": 1180
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "spicy",
         "amber",
@@ -2837,16 +2506,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -2889,7 +2549,7 @@
       "15 ML": 1850
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "sweet"
       ],
@@ -2915,16 +2575,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -2967,7 +2618,7 @@
       "10 ML": 900
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "spicy"
       ],
@@ -2995,16 +2646,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3047,7 +2689,7 @@
       "10 ML": 1299
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -3075,16 +2717,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3127,7 +2760,7 @@
       "15 ML": 480
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -3160,16 +2793,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3212,7 +2836,7 @@
       "15 ML": 1200
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -3241,16 +2865,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3293,7 +2908,7 @@
       "15 ML": 1070
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -3322,16 +2937,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3374,7 +2980,7 @@
       "15 ML": 1150
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic"
@@ -3403,16 +3009,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3455,7 +3052,7 @@
       "15 ML": 540
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -3487,16 +3084,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3540,7 +3128,7 @@
       "15 ML": 750
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "powdery",
@@ -3571,16 +3159,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3623,7 +3202,7 @@
       "15 ML": 830
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "sweet",
@@ -3655,16 +3234,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3707,7 +3277,7 @@
       "15 ML": 830
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -3741,16 +3311,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -3794,7 +3355,7 @@
       "15 ML": 710
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fresh",
         "aquatic",
@@ -3855,16 +3416,7 @@
           "url": "https://admin.ahmedalmaghribi.com/shop/kaaf",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -3908,7 +3460,7 @@
       "15 ML": 540
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fresh",
         "citrus",
@@ -3974,16 +3526,7 @@
           "url": "https://ksa.ahmedalmaghribi.com/en/shop/online-exclusive/extrait-de-parfum/blue-by-ahmed",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -4026,7 +3569,7 @@
       "15 ML": 540
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "green",
@@ -4055,16 +3598,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4108,7 +3642,7 @@
     },
     "posterImage": "miami-blue-by-ard.webp",
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -4136,16 +3670,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4188,7 +3713,7 @@
       "15 ML": 430
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -4219,16 +3744,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4271,7 +3787,7 @@
       "15 ML": 430
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -4302,16 +3818,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4354,7 +3861,7 @@
       "15 ML": 430
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -4383,16 +3890,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4435,7 +3933,7 @@
       "15 ML": 490
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "amber",
         "woody",
@@ -4466,16 +3964,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4519,7 +4008,7 @@
       "15 ML": 720
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fresh",
         "citrus",
@@ -4579,16 +4068,7 @@
           "url": "https://arabiyatprestige.com/products/arabiyat-prestige-marwa-edp-100ml-unisex",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -4631,7 +4111,7 @@
       "15 ML": 660
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -4661,16 +4141,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4713,7 +4184,7 @@
       "15 ML": 550
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -4744,16 +4215,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4796,7 +4258,7 @@
       "15 ML": 550
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic"
@@ -4822,16 +4284,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4874,7 +4327,7 @@
       "15 ML": 580
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -4903,16 +4356,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -4955,7 +4399,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -4986,16 +4430,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5040,7 +4475,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -5072,16 +4507,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5124,7 +4550,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic"
@@ -5154,16 +4580,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5206,7 +4623,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -5237,16 +4654,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5289,7 +4697,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "oud",
@@ -5320,16 +4728,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5372,7 +4771,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -5401,16 +4800,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5453,7 +4843,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "green",
@@ -5484,16 +4874,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5536,7 +4917,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "elegant"
@@ -5564,16 +4945,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5616,7 +4988,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "elegant"
@@ -5645,16 +5017,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5697,7 +5060,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "aromatic"
       ],
@@ -5723,16 +5086,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5775,7 +5129,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -5807,16 +5161,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5859,7 +5204,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -5890,16 +5235,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -5942,7 +5278,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "fruity",
@@ -5971,16 +5307,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6023,7 +5350,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "elegant"
@@ -6051,16 +5378,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6103,7 +5421,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "green",
         "woody",
@@ -6132,16 +5450,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6184,7 +5493,7 @@
       "15 ML": 530
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "spicy",
         "elegant"
@@ -6213,16 +5522,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6268,7 +5568,7 @@
       "15 ML": 690
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fresh",
         "spicy",
@@ -6321,16 +5621,7 @@
       "performance": "Around 7–9 hours on clothes, based on Scentory guidance; performance varies by wearer and conditions.",
       "comparison": "Dior Sauvage EDT",
       "sourceNote": "Scentory supplied the poster profile and comparison.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6374,7 +5665,7 @@
       "15 ML": 600
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "oud",
         "woody",
@@ -6430,16 +5721,7 @@
           "url": "https://lattafa.com/product/badee-al-oud-oud-for-glory/",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -6482,7 +5764,7 @@
       "15 ML": 600
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "sweet",
         "fruity",
@@ -6514,16 +5796,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6566,7 +5839,7 @@
       "15 ML": 760
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -6598,16 +5871,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6650,7 +5914,7 @@
       "15 ML": 790
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "citrus",
         "fruity",
@@ -6680,16 +5944,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6734,7 +5989,7 @@
       "15 ML": 1160
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "smoky",
@@ -6765,16 +6020,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6816,7 +6062,7 @@
       "15 ML": 650
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "citrus",
         "fruity",
@@ -6845,16 +6091,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6897,7 +6134,7 @@
       "15 ML": 1990
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "smoky",
         "elegant"
@@ -6926,16 +6163,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -6977,7 +6205,7 @@
       "15 ML": 700
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "citrus",
         "fruity",
@@ -7006,16 +6234,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7058,7 +6277,7 @@
       "15 ML": 710
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -7090,16 +6309,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7142,7 +6352,7 @@
       "15 ML": 830
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -7174,16 +6384,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7226,7 +6427,7 @@
       "15 ML": 860
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "elegant"
       ],
@@ -7253,16 +6454,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7305,7 +6497,7 @@
       "15 ML": 780
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -7335,16 +6527,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7387,7 +6570,7 @@
       "15 ML": 730
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -7419,16 +6602,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7472,7 +6646,7 @@
       "15 ML": 780
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "sweet",
         "gourmand",
@@ -7530,16 +6704,7 @@
           "url": "https://frenchavenue.com/products/liquid-brun",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -7582,7 +6747,7 @@
       "15 ML": 780
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "sweet"
@@ -7610,16 +6775,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7662,7 +6818,7 @@
       "15 ML": 490
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -7692,16 +6848,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7744,7 +6891,7 @@
       "15 ML": 670
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -7776,16 +6923,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7828,7 +6966,7 @@
       "15 ML": 440
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "fruity",
@@ -7859,16 +6997,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7911,7 +7040,7 @@
       "15 ML": 940
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh"
       ],
@@ -7937,16 +7066,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -7989,7 +7109,7 @@
       "15 ML": 640
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "citrus",
@@ -8020,16 +7140,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8073,7 +7184,7 @@
       "15 ML": 520
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "sweet",
         "fruity",
@@ -8128,16 +7239,7 @@
           "url": "https://lattafa.com/product/yara/",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -8180,7 +7282,7 @@
       "15 ML": 490
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -8214,16 +7316,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8266,7 +7359,7 @@
       "15 ML": 490
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "fruity"
@@ -8295,16 +7388,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8347,7 +7431,7 @@
       "15 ML": 660
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -8377,16 +7461,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8429,7 +7504,7 @@
       "15 ML": 800
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "sweet",
         "spicy"
@@ -8456,16 +7531,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8509,7 +7575,7 @@
       "15 ML": 700
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "sweet",
         "gourmand",
@@ -8568,16 +7634,7 @@
           "url": "https://lattafa.com/product/khamrah-qahwa/",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -8620,7 +7677,7 @@
       "15 ML": 550
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "sweet",
@@ -8649,16 +7706,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8702,7 +7750,7 @@
       "15 ML": 550
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "spicy",
         "amber",
@@ -8761,16 +7809,7 @@
           "url": "https://lattafa.com/product/asad/",
           "type": "brand"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      ]
     }
   },
   {
@@ -8813,7 +7852,7 @@
       "15 ML": 560
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -8844,16 +7883,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8896,7 +7926,7 @@
       "15 ML": 440
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh"
       ],
@@ -8923,16 +7953,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -8975,7 +7996,7 @@
       "15 ML": 440
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -9006,16 +8027,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9059,7 +8071,7 @@
       "15 ML": 650
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic",
@@ -9091,16 +8103,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9144,7 +8147,7 @@
     ],
     "recommendation": "A mango, coconut and citrus scent with smooth woods and tonka for summer outings, beaches, vacations, brunches and daytime dates.",
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fruity",
         "citrus",
@@ -9192,40 +8195,7 @@
       "performance": "Around 8–9+ hours on clothes, according to Scentory’s supplied poster; results vary with skin chemistry, environment and spray count.",
       "comparison": "Creed Virgin Island Water + God of Fire",
       "sourceNote": "Notes, use guidance, performance and comparison supplied by Scentory in the product poster. Notes are listed without an unconfirmed top/heart/base split. Recommendation scores are approximate catalogue guidance.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [
-          "Mango",
-          "Coconut",
-          "Lime"
-        ],
-        "heartNotes": [
-          "Lemon",
-          "Pink pepper",
-          "Jasmine"
-        ],
-        "baseNotes": [
-          "Orange blossom",
-          "Musk",
-          "Tonka bean",
-          "Precious woods"
-        ],
-        "listedNotes": [
-          "Mango",
-          "Coconut",
-          "Lime",
-          "Lemon",
-          "Pink pepper",
-          "Jasmine",
-          "Orange blossom",
-          "Musk",
-          "Tonka bean",
-          "Precious woods"
-        ],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9268,7 +8238,7 @@
       "15 ML": 620
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic"
@@ -9297,16 +8267,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9349,7 +8310,7 @@
       "15 ML": 620
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aquatic",
@@ -9380,16 +8341,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9432,7 +8384,7 @@
       "15 ML": 670
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "elegant"
@@ -9461,16 +8413,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9513,7 +8456,7 @@
       "15 ML": 430
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fruity",
         "sweet",
@@ -9544,16 +8487,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9596,7 +8530,7 @@
       "15 ML": 430
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 1,
       "character": [
         "fresh",
         "aromatic"
@@ -9624,16 +8558,7 @@
     "details": {
       "verification": "needs-source-review",
       "performance": "Performance guidance is under source review; skin, weather and atomizer can change results.",
-      "sources": [],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
-      },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "sources": []
     }
   },
   {
@@ -9677,7 +8602,7 @@
       "15 ML": 350
     },
     "profile": {
-      "schemaVersion": 3,
+      "schemaVersion": 2,
       "character": [
         "fresh",
         "aquatic",
@@ -9747,16 +8672,186 @@
           "url": "https://moksperfumes.co.za/product/arabiyat-oud-al-layl-midnight-edition-intense-edp-100ml/",
           "type": "specialist-retailer"
         }
-      ],
-      "scentoryProfilePyramid": {
-        "topNotes": [],
-        "heartNotes": [],
-        "baseNotes": [],
-        "listedNotes": [],
-        "noteSourceStatus": "Scentory supplied listed notes. Top/heart/base classification requires fragrance-house/source verification."
+      ]
+    }
+  },
+  {
+    "id": "bujairami-sydney-hectic-edp",
+    "name": "Bujairami Sydney Hectic EDP",
+    "status": "available",
+    "sizes": {
+      "5ml": {
+        "price": 350,
+        "available": true,
+        "premium": false
       },
-      "profileVersion": "v3064",
-      "profileScope": "one profile per perfume; shared across all decant sizes"
+      "6ml": {
+        "price": 430,
+        "available": true,
+        "premium": true
+      },
+      "10ml": {
+        "price": 650,
+        "available": true,
+        "premium": false
+      }
+    },
+    "image": "bujairami-sydney-hectic-poster-v3063.jpg",
+    "tags": [
+      "Fresh",
+      "Citrus",
+      "Aromatic",
+      "Tea"
+    ],
+    "recommendation": "A fresh citrus tea fragrance for office, university, business meetings, travel and summer wear.",
+    "prices": {
+      "5 ML": 350,
+      "6 ML": 430,
+      "10 ML": 650
+    },
+    "profile": {
+      "schemaVersion": 3,
+      "character": [
+        "Fresh",
+        "Citrus",
+        "Aromatic",
+        "Tea"
+      ],
+      "occasions": [
+        "evening",
+        "date",
+        "party"
+      ],
+      "climates": [
+        "hot",
+        "ac",
+        "outdoor"
+      ],
+      "strength": 4,
+      "projection": 4,
+      "longevity": 4,
+      "sweetness": 3,
+      "freshness": 3,
+      "warmth": 4,
+      "officeSafety": 2,
+      "heatSafety": 3,
+      "versatility": 4,
+      "evidence": "scentory-supplied",
+      "reviewedAt": "2026-09-11",
+      "topPickEligible": false
+    },
+    "details": {
+      "verification": "scentory-supplied",
+      "notes": {
+        "listed": [
+          "Lemon",
+          "Bergamot",
+          "Ginger",
+          "Orange",
+          "Black tea",
+          "Neroli",
+          "Cinnamon",
+          "Musk",
+          "Cedarwood",
+          "Guaiac wood"
+        ]
+      },
+      "performance": "Scentory supplied performance guidance; results vary with skin chemistry, environment and spray count.",
+      "comparison": "Louis Vuitton Imagination",
+      "sourceNote": "Product profile updated from Scentory supplied poster.",
+      "sources": []
+    }
+  },
+  {
+    "id": "club-de-nuit-intenso-fuego-edp",
+    "name": "Club De Nuit Intenso Fuego",
+    "status": "available",
+    "sizes": {
+      "5ml": {
+        "price": 390,
+        "available": true,
+        "premium": false
+      },
+      "6ml": {
+        "price": 470,
+        "available": true,
+        "premium": true
+      },
+      "10ml": {
+        "price": 730,
+        "available": true,
+        "premium": false
+      },
+      "15ml": {
+        "price": 1030,
+        "available": true,
+        "premium": false
+      }
+    },
+    "image": "club-de-nuit-intenso-fuego-poster-v3063.png",
+    "tags": [
+      "Fruity",
+      "Smoky",
+      "Woody",
+      "Amber"
+    ],
+    "recommendation": "A warm smoky fruity scent designed for evening wear, date nights and parties.",
+    "prices": {
+      "5 ML": 390,
+      "6 ML": 470,
+      "10 ML": 730,
+      "15 ML": 1030
+    },
+    "profile": {
+      "schemaVersion": 3,
+      "character": [
+        "Fruity",
+        "Smoky",
+        "Woody",
+        "Amber"
+      ],
+      "occasions": [
+        "evening",
+        "date",
+        "party"
+      ],
+      "climates": [
+        "hot",
+        "ac",
+        "outdoor"
+      ],
+      "strength": 4,
+      "projection": 4,
+      "longevity": 4,
+      "sweetness": 3,
+      "freshness": 3,
+      "warmth": 4,
+      "officeSafety": 2,
+      "heatSafety": 3,
+      "versatility": 4,
+      "evidence": "scentory-supplied",
+      "reviewedAt": "2026-09-11",
+      "topPickEligible": false
+    },
+    "details": {
+      "verification": "scentory-supplied",
+      "notes": {
+        "listed": [
+          "Pineapple",
+          "Passion fruit",
+          "Mango",
+          "Citrus",
+          "Leather",
+          "Smoky woods",
+          "Amber",
+          "Vanilla",
+          "Oud"
+        ]
+      },
+      "performance": "Scentory supplied performance guidance; results vary with skin chemistry, environment and spray count.",
+      "comparison": "Creed Aventus x Oud Maracuja",
+      "sourceNote": "Product profile updated from Scentory supplied poster.",
+      "sources": []
     }
   }
 ]
